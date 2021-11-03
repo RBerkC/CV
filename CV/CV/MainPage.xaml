@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:CV"
+             x:Class="CV.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="CV" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Image Source="{local:ImagesResourceExtension CV.Image.Ansøgningsfoto.jpg}" HeightRequest="250" WidthRequest="100"></Image>
+            <Label Text="Navn: Recep Berk Catal"/>
+            <Label Text="Adresse: Brøndbbyvestervej 18 1K 2600 Glostrup"/>
+            <Label Text="Telfonnummer: +4520254975"/>
+            <Label Text="merk68b@gmail.com" />
+            <Label Text="30/08/1999"/>
+            <Label Text="Lidt om mig" FontSize="Title"/>
+            <Label Text="Jeg er en ung fyr på 22 år. &#10; 
+               Jeg går op i at udføre mit arbejde godt og vil til enhver tid hjælpe der hvor jeg kan. &#10;
+               Mit humør er højt, og jeg trives i at arbejde med mennesker, samt yde en god service."/>
+            <Label Text="Uddanelse" FontSize="Title"/>
+            <Label Text="&#x2022; I 2018 fik jeg et diplom fra London hvor jeg arbejdede i 2 uger."/>
+            <Label Text="&#x2022; 2017-nu TEC Datateknikker med speciale i programmering" />
+            <Label Text="&#x2022; 2017 fik jeg en c licens i fodbold.  2016-2017"/>
+            <Label Text="&#x2022; Tre Falke skolen 2016."/>
+            <Label Text="&#x2022; en uge praktik i Atea."/>
+            <Label Text="&#x2022; 2006-2016 Nyagerskole."/>
+            <Label Text="Sprog" FontSize="Title"/>
+            <Label Text="&#x2022; Dansk: Modersmål."/>
+            <Label Text="&#x2022; Engelsk: læse, forstå og tale."/>
+            <Label Text="&#x2022; Tyrkisk: Modersmål"/>
+            <Label Text="&#x2022; Tysk: Forstå en smule."/>
+            <Label Text="Erfaring" FontSize="Title"/>
+            <Label Text="&#x2022; 2017-2017 maj: Candy cafe."/>
+            <Label Text="&#x2022; Servicemedarbejder 2017 maj-2019 februar: Netto Vallensbæk."/>
+            <Label Text="&#x2022; 2016 Atea en uge (Praktik)."/>
+            <Label Text="&#x2022; Skolepraktik (SOPU Dybbølsbro ITCN it-supporter)  ."/>
+            <Label Text="&#x2022; Fodbold træner november 2018 – 19/09/2019: Vanløse IF"/>
+            <Label Text="&#x2022; Fodbold træner september 2020 – december 2020: Frederiksberg boldklub"/>
+            <Label Text="&#x2022; Fodbold træner marts 2021 – nu: Østerbro IF."/>
+            <Label Text="&#x2022; Fodbold skole juni 2021: Østerbro IF."/>
+            <Label Text="Fritidsinteresser" FontSize="Title"/>
+            <Label Text="&#x2022; Fodbold."/>
+            <Label Text="&#x2022; Computer/computerspil."/>
+            <Label Text="&#x2022; 'Telefoni"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
