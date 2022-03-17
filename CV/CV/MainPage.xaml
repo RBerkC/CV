@@ -12,7 +12,7 @@
             <Label Text="merk68b@gmail.com" />
             <Label Text="30/08/1999"/>
             <Label Text="Lidt om mig" FontSize="Title"/>
-            <Label Text="Jeg er en ung fyr på 22 år. &#10; 
+            <Label Text="Jeg er en ung fyr på 22 år. &#10;
                Jeg går op i at udføre mit arbejde godt og vil til enhver tid hjælpe der hvor jeg kan. &#10;
                Mit humør er højt, og jeg trives i at arbejde med mennesker, samt yde en god service."/>
             <Label Text="Uddanelse" FontSize="Title"/>
@@ -39,7 +39,7 @@
             <Label Text="Fritidsinteresser" FontSize="Title"/>
             <Label Text="&#x2022; Fodbold."/>
             <Label Text="&#x2022; Computer/computerspil."/>
-            <Label Text="&#x2022; 'Telefoni"/>
+            <Label Text="&#x2022; Telefoni"/>
         </StackLayout>
     </ScrollView>
 </ContentPage>
